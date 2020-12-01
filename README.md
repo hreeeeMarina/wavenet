@@ -1,1 +1,2 @@
 # wavenet
+hands on study
